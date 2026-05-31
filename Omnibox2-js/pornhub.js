@@ -5,7 +5,7 @@
 const OmniBox = require("omnibox_sdk");
 const runner = require("spider_runner");
 
-const PROXY = "http://192.168.1.111:7898";
+//const PROXY = "http://192.168.1.111:7898";
 
 async function apiGet(url) {
     try {
